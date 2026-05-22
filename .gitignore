@@ -1,2 +1,4 @@
 node_modules
 dist
+pacakage.json
+package-lock.json
