@@ -83,3 +83,19 @@ const san:c={
     name:"lassl"
 }
 console.log(san)
+
+
+// inteface as indexcing :- when one propert going tp asain a moo;ltipe time in arr holdin difrent vale 
+// [varable Name :type]:value assing type  = [p:string]:number
+
+
+interface Indexingarray{
+    [flavour:string]:number
+}
+const chaiRating:Indexingarray={
+    adrark:23,
+    masak:23,
+
+    namkWalaChai:-0,
+
+}
